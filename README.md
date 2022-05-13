@@ -2,8 +2,8 @@
 - 👋 Meu Nome é Gabriel Santiago
 - 👀 Meu email de contato é ...
 - 🌱 Meu interesse é aprender a progamar
-- 💞️ Estou APrendendo a Progamar.Iniciante
-- 📫 How to reach me ...
+- 💞️ Estou Aprendendo a Progamar.Iniciante
+- 📫 Bem Vindo A Minha bio
 
 <!---
 Gvs454/Gvs454 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
